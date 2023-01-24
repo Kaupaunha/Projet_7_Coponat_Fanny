@@ -3,7 +3,6 @@ import './Accomodation.scss'
 // Importation de ce hook pour récupérer l'id
 import { useParams, Navigate } from 'react-router-dom'
 
-// Importation des données concernant les appartments
 import data from '../../assets/datas/datas.json'
 
 // Importation des composants enfants

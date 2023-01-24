@@ -1,7 +1,7 @@
 @import './../../assets/styles/variables';
 
 .header {
-  margin: 10px 100px 10px;
+  margin: 30px 100px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -36,6 +36,7 @@
       }
       @media (max-width: 768px) {
         font-size: 12px;
+        margin-left: 1rem;
       }
 
       &::after {

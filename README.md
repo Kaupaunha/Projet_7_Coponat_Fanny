@@ -1,3 +1,13 @@
+# How to set up
+
+- Download frontend here : https://github.com/Kaupaunha/Projet_7_Coponat_Fanny
+  or
+  $ git clone https://github.com/Kaupaunha/Projet_7_Coponat_Fanny.git
+
+- `npm install --global yarn`
+
+- `yarn start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

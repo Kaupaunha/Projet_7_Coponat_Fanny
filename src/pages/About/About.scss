@@ -1,4 +1,4 @@
-@import "./../../assets/styles/variables";
+@import './../../assets/styles/variables';
 
 .about {
   &__dropdowns {
@@ -12,6 +12,7 @@
 
     @media (max-width: 768px) {
       width: calc(100% - 40px);
+      margin: 15px auto;
     }
   }
 }
